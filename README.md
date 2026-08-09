@@ -1,4 +1,5 @@
 # web-project
 
-���砫쭨� ���� ��� �ࠪ⨪� Git � GitHub: HTML, CSS, JavaScript � test.py.
-���� �㭪�?���� ��ॢ?७� �� �?��? main.
+Навчальний проєкт для практики Git та GitHub: HTML, CSS, JavaScript та test.py.
+
+Весь функціонал перевірено на гілці main.
